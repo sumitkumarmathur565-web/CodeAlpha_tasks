@@ -1,0 +1,10 @@
+node_modules/
+client/node_modules/
+server/node_modules/
+Task1_ECommerce/client/node_modules/
+Task1_ECommerce/server/node_modules/
+.env
+**/.env
+*.log
+.DS_Store
+Thumbs.db

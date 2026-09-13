@@ -1,0 +1,21 @@
+@import "tailwindcss";
+@import url('https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,500;9..144,600&family=Inter:wght@400;500;600&display=swap');
+
+:root {
+  --paper: #FAF8F3;
+  --ink: #1F2420;
+  --moss: #3F5D45;
+  --clay: #C4623A;
+  --stone: #8A8578;
+  --border: #E5E1D8;
+}
+
+body {
+  background-color: var(--paper);
+  color: var(--ink);
+  font-family: 'Inter', sans-serif;
+}
+
+.font-serif-display {
+  font-family: 'Fraunces', serif;
+}

@@ -60,11 +60,7 @@ A social app with posts, likes, and a follow/following system.
 
 
 
-\## Task 3: Coming soon
 
-
-
-\---
 
 
 
